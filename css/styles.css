@@ -1,0 +1,22 @@
+/* General Styles */
+
+:root {
+  --main-bg-color: linear-gradient(to right, #004e92, #000428);
+}
+
+/* Header Styles */
+
+#header {
+  background-image: var(--main-bg-color);
+}
+
+#header .navbar a {
+  color: #ffffff;
+}
+
+/* Footer Styles */
+
+#footer {
+  background-image: var(--main-bg-color);
+  color: #ffffff;
+}
